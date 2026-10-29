@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Baselayer is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://baselayer.com
+Baselayer provides business identity verification, risk assessment, and fraud detection APIs for financial institutions, fintechs, and marketplaces. Their platform offers real-time KYB, credit, sanctions, industry classification, and monitoring services, enabling automated underwriting and compliance workflows. The company emphasizes AI-driven insights and a comprehensive data source network to reduce manual reviews and improve decision speed.
+
+**Areas:** Business · Identity Verification · Risk Management · Fintech
+
+## Baselayer on APIs.io
+
+Everything profiled for Baselayer is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/baselayer/](https://apis.io/providers/baselayer/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Baselayer API](https://apis.io/apis/baselayer/baselayer-api/) — Business identity verification, risk assessment, and fraud detection APIs
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Baselayer Webhooks](https://apis.io/asyncapis/baselayer/baselayer-webhooks/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Baselayer Openapi Overlay](https://apis.io/overlays/baselayer/baselayer-openapi-overlay/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Baselayer Authentication](https://apis.io/security/baselayer/baselayer-authentication/)
+- [Baselayer Domain Security](https://apis.io/security/baselayer/baselayer-domain-security/)
+- [Baselayer Trust Center](https://apis.io/security/baselayer/baselayer-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Baselayer Plans Pricing](https://apis.io/plans/baselayer/baselayer-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://baselayer.com)
+- [Documentation](https://docs.baselayer.com)
+- [Getting started](https://docs.baselayer.com/docs/getting-started)
+- [API reference](https://docs.baselayer.com/api-reference)
+- [Pricing](https://baselayer.com/pricing)
+- [Support](https://support.baselayer.com)
+- [Changelog](https://docs.baselayer.com/changelog/texas-comptroller-franchise-tax-standing)
+- [Blog](https://baselayer.com/resources)
+- [Compliance](https://trust.baselayer.com/)
+- [Terms of service](https://baselayer.com/terms-of-service/)
+- [Privacy policy](https://baselayer.com/privacy-policy/)
+- [GitHub](https://github.com/baselayer)
+- [Status](https://status.baselayer.com/)
+
+## API Evangelist rating
+
+**Kin Score 53.9** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 39.0 |
+| Contract governance | 4.5 |
+| Operational transparency | 52.6 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 78.9 |
+
+**Agent readiness 26.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/baselayer/](https://apis.io/providers/baselayer/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Baselayer: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/baselayer/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
